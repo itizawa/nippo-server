@@ -3871,9 +3871,9 @@ mongodb@^5.9.1:
     "@mongodb-js/saslprep" "^1.1.0"
 
 mongoose-paginate-v2@^1.7.4:
-  version "1.7.4"
-  resolved "https://registry.yarnpkg.com/mongoose-paginate-v2/-/mongoose-paginate-v2-1.7.4.tgz#f2ce1def9598b81b251df19eeb53982283fdc986"
-  integrity sha512-2oUOH/2hrtW0Ki5dJbwxsLBeVafVBfE84QiJsr7tYBQVxUk1v5usDvRa29LpBtANMpBe7eeLUTI2tyjLSk3/Yg==
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/mongoose-paginate-v2/-/mongoose-paginate-v2-1.8.0.tgz#29343fde550b9c6e23a9c9e1cb23c97dee77743e"
+  integrity sha512-JiGbGxc/ytIA8UL4GaJdCLuxv5i99+XmTdP4v9YXwiJ85tdOxdrc2NQJL+0O+NRbIl+aAhaOnDbL9bJt7o3zIA==
 
 mongoose@*, mongoose@^8.0.0:
   version "8.0.3"
