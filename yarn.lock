@@ -616,9 +616,9 @@
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
 "@mongodb-js/saslprep@^1.1.0":
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@mongodb-js/saslprep/-/saslprep-1.1.1.tgz#9a6c2516bc9188672c4d953ec99760ba49970da7"
-  integrity sha512-t7c5K033joZZMspnHg/gWPE4kandgc2OxE74aYOtGKfgB9VPuVJPix0H6fhmm2erj5PBJ21mqcx34lpIGtUCsQ==
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/@mongodb-js/saslprep/-/saslprep-1.1.3.tgz#ef77edae4061cdc856ea2d355d582e9b49fae8fe"
+  integrity sha512-SyCxhJfmK6MoLNV5SbDpNdUy9SDv5H7y9/9rl3KpnwgTHWuNNMc87zWqbcIZXNWY+aUjxLGLEcvHoLagG4tWCg==
   dependencies:
     sparse-bitfield "^3.0.3"
 
@@ -852,7 +852,14 @@
   dependencies:
     mongoose "*"
 
-"@types/node@*", "@types/node@^20.0.0":
+"@types/node@*":
+  version "20.11.0"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.11.0.tgz#8e0b99e70c0c1ade1a86c4a282f7b7ef87c9552f"
+  integrity sha512-o9bjXmDNcF7GbM4CNQpmi+TutCgap/K3w1JyKgxAjqx41zp9qlIAVFi0IhCNsJcXolEqLWhbFbEeL0PvYm4pcQ==
+  dependencies:
+    undici-types "~5.26.4"
+
+"@types/node@^20.0.0":
   version "20.10.5"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-20.10.5.tgz#47ad460b514096b7ed63a1dae26fad0914ed3ab2"
   integrity sha512-nNPsNE65wjMxEKI93yOP+NPGGBJz/PoN3kZsVLee0XMiJolxSekEVD8wRwBUBqkwc7UWop0edW50yrCQW4CyRw==
@@ -3876,9 +3883,9 @@ mongoose-paginate-v2@^1.7.4:
   integrity sha512-2oUOH/2hrtW0Ki5dJbwxsLBeVafVBfE84QiJsr7tYBQVxUk1v5usDvRa29LpBtANMpBe7eeLUTI2tyjLSk3/Yg==
 
 mongoose@*, mongoose@^8.0.0:
-  version "8.0.3"
-  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-8.0.3.tgz#f3708ba0f40b6dec8f5f1a5d40abd69a80207114"
-  integrity sha512-LJRT0yP4TW14HT4r2RkxqyvoTylMSzWpl5QOeVHTnRggCLQSpkoBdgbUtORFq/mSL2o9cLCPJz+6uzFj25qbHw==
+  version "8.0.4"
+  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-8.0.4.tgz#d1177529f4e4eca327506f4fc0a304754081d9cd"
+  integrity sha512-wN9qvdevX3+922VnLT7CpaZRT3jmVCBOK2QMHMGeScQxDRnFMPpkuI9StEPpZo/3x8t+kbzH7F8RMPsyNwyM4w==
   dependencies:
     bson "^6.2.0"
     kareem "2.5.1"
